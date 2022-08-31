@@ -28,6 +28,8 @@ DB_PASSWORD=de0020be
 ```
 + rode as migrations com o comando: ```php artisan migrate --seed```
 + Você também deve rodar ```npm install```
++ Para rodar o projeto utilize: ```php artisan serve```
+
 + Faça o clone do FrontEnd: https://github.com/JuanLima10/Microblog-Frontend.git
 
 ## 🧾 My Contacts:
